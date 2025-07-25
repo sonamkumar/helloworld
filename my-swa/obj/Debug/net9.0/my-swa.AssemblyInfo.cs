@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("my-swa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83a567eee93c9bacf0c3e5ccf825f51e55645bb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("my-swa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("my-swa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
