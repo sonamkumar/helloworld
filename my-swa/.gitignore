@@ -1,0 +1,3 @@
+//standard gitignore file for a static web app
+# Ignore node_modules directory
+import 'node_modules/'  
