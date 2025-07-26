@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/my-swa/bin/Debug/net9.0
+/my-swa/obj/Debug/net9.0/compressed
+/my-swa/obj/Debug/net9.0/ref
+/my-swa/obj/Debug/net9.0/refint
+/my-swa/obj/Debug/net9.0/scopedcss
+/my-swa/obj/Debug/net9.0/tmp-webcil
+/my-swa/obj/Debug/net9.0/webcil
+/my-swa/my-swa.csproj.user
