@@ -5,3 +5,44 @@
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+
+<hr />
+
+<div>
+    <label>
+        <input type="radio" name="category" value="Fruits" @onchange="@(e => OnCategoryChanged("Fruits"))" checked="@(_selectedCategory == "Fruits")" />
+        Fruits
+    </label>
+    <label style="margin-left: 1em;">
+        <input type="radio" name="category" value="Sellers" @onchange="@(e => OnCategoryChanged("Sellers"))" checked="@(_selectedCategory == "Sellers")" />
+        Sellers
+    </label>
+
+    <select style="margin-left: 1em;">
+        @if (_selectedCategory == "Fruits")
+        {
+            @foreach (var fruit in _fruits)
+            {
+                <option>@fruit</option>
+            }
+        }
+        else if (_selectedCategory == "Sellers")
+        {
+            @foreach (var seller in _sellers)
+            {
+                <option>@seller</option>
+            }
+        }
+    </select>
+</div>
+
+@code {
+    private string _selectedCategory = "Fruits";
+    private List<string> _fruits = new() { "Apple", "Banana", "Orange" };
+    private List<string> _sellers = new() { "Alice", "Bob", "Charlie" };
+
+    private void OnCategoryChanged(string category)
+    {
+        _selectedCategory = category;
+    }
+}
