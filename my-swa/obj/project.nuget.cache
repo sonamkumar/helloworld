@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1TsBWvwa2g4=",
+  "dgSpecHash": "V3Rnt3LJN+U=",
   "success": true,
   "projectFilePath": "C:\\Users\\sonam\\source\\repos\\my-swa\\my-swa\\my-swa.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,9 @@
     "C:\\Users\\sonam\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.7\\microsoft.extensions.primitives.9.0.7.nupkg.sha512",
     "C:\\Users\\sonam\\.nuget\\packages\\microsoft.jsinterop\\9.0.7\\microsoft.jsinterop.9.0.7.nupkg.sha512",
     "C:\\Users\\sonam\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.7\\microsoft.jsinterop.webassembly.9.0.7.nupkg.sha512",
-    "C:\\Users\\sonam\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.7\\microsoft.net.illink.tasks.9.0.7.nupkg.sha512",
-    "C:\\Users\\sonam\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.7\\microsoft.net.sdk.webassembly.pack.9.0.7.nupkg.sha512",
-    "C:\\Users\\sonam\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.7.nupkg.sha512"
+    "C:\\Users\\sonam\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.8\\microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
+    "C:\\Users\\sonam\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.8\\microsoft.net.sdk.webassembly.pack.9.0.8.nupkg.sha512",
+    "C:\\Users\\sonam\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.8\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.8.nupkg.sha512"
   ],
   "logs": []
 }
